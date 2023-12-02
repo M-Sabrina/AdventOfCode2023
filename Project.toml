@@ -1,0 +1,7 @@
+name = "advent_of_code_2023"
+uuid = "104be73b-5db4-4c69-a12a-3c725460607c"
+authors = ["Sabrina Meindlhumer <sabrina.meindlhumer@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
